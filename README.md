@@ -1,13 +1,8 @@
 
 ### Olá! Eu sou o Gabriel Benini
 
-<a href="https://www.instagram.com/_gabriel_benini/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://www.linkedin.com/in/gabriel-benini-66810333b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriel_benini/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-benini-66810333b/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benini2&show_icons=true&theme=dark)
 

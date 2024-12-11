@@ -17,8 +17,8 @@
 <div\>
 <br>
 
-## Sobre mim:
+## Sobre mim:🙂
 
-Formado em TI no IFSC Câmpus Xanxerê <br>
-Estudando na plataforma Alura <br>
-Cursando Sistemas da Informação
+🎓 *Formado em TI no IFSC Câmpus Xanxerê* <br>
+📖 *Estudando na plataforma Alura* <br>
+💻 *Cursando Sistemas da Informação*

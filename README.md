@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-benini-66810333b/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benini2&show_icons=true&theme=dark)
+<hr>
 
 ### Tecnologias que eu uso no meu dia
 
@@ -16,9 +17,12 @@
     <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <div\>
 <br>
+<hr>
 
 ## Sobre mim:🙂
 
 🎓 *Formado em TI no IFSC Câmpus Xanxerê* <br>
 📖 *Estudando na plataforma Alura* <br>
 💻 *Cursando Sistemas da Informação*
+
+![Design sem nome (2)](https://github.com/user-attachments/assets/844b6a41-4f8b-4d51-9c41-cd3c6dec8fdf)
